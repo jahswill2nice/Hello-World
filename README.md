@@ -1,6 +1,17 @@
-# Hello-World
-A new repository
+css codes
 
-Lets change the topic
+<style>
+	margin: 
+	padding:
+	background: blue;
+	body{
+		font-family: monosans;
+		background-color: red;
+		font-size:11px
+		 
+	}
+	article{
+		background-color
+	}
 
-I need love in my life.I need money too
+</style>
